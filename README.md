@@ -10,7 +10,7 @@ Based in Israel and open to Full-Stack, Frontend (React/Next.js), Backend (Node.
 
 ## Current focus
 
-- Building **[Ceru](https://split-landing-silk.vercel.app/)**, a six-language, multi-currency expense-sharing mobile app currently in iOS TestFlight beta, with Android in preparation
+- Building **[Ceru](https://ceruapp.com/)**, a six-language, multi-currency expense-sharing mobile app currently in iOS TestFlight beta, with Android in preparation
 - Developing client systems across real estate, student housing, and healthcare, including CRM, document-management, and multi-tenant SaaS workflows
 - Building AI integrations and retrieval systems that solve defined product and business problems
 
@@ -18,7 +18,7 @@ Based in Israel and open to Full-Stack, Frontend (React/Next.js), Backend (Node.
 
 | Project | What it demonstrates | Links |
 | --- | --- | --- |
-| **Ceru** | Independently planned and developed cross-platform mobile product with offline-friendly synchronization, flexible expense splitting, voice and receipt input, localization, analytics, and monitoring | [Product](https://split-landing-silk.vercel.app/) |
+| **Ceru** | Independently planned and developed cross-platform mobile product with offline-friendly synchronization, flexible expense splitting, voice and receipt input, localization, analytics, and monitoring | [Product](https://ceruapp.com/) |
 | **AWS EC2 Observability Dashboard** | CloudWatch metrics exploration across CPU, network, disk I/O, CPU credit, and instance health | [Repository](https://github.com/antoniosifov/aws-cpu-utilization-metrics) · [Live](https://aws-cpu-utilization-metrics-six.vercel.app/) |
 | **Agentic RAG Knowledge Assistant** | FastAPI and LangChain assistant using OpenAI and MongoDB Atlas Vector Search for cited knowledge retrieval | [Backend](https://github.com/antoniosifov/rag-chat-backend) · [Live](https://rag-chat-frontend-sigma.vercel.app/) |
 | **Sea’cret Residences** | Production four-language real-estate platform with CMS-managed content, localized SEO/GEO, analytics, accessibility, and enquiry workflows | [Live](https://www.seacret-residence.com/) |
